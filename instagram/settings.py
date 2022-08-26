@@ -90,7 +90,7 @@ DATABASES = {
         'NAME': 'seoul',       # DB Name
         'USER': 'root',       # User ID
         'PASSWORD': 'It12345!',   # DB PW
-        'HOST': 'tokyo-rds.cwgzvj9e7rsy.ap-northeast-1.rds.amazonaws.com',
+        'HOST': 'tokyo-rds.c9qqxfzbifbl.ap-northeast-1.rds.amazonaws.com',
         'PORT': '5432',             # PORT
     }
 }
